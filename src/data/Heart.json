@@ -1,0 +1,68 @@
+[
+  {
+    "ID": 1,
+    "Icon": "http://assure.triverseadvertising.com/images/total-choles.webp",
+    "PackageName": "Comprehensive Wellness Package for Women",
+    "ActualPrice": "8160",
+    "DiscountPrice": "2990",
+    "TestParmeter": "ELECTROLYTES (Na, K, Ca), CREATININE, THYROID PROFILE, LEUTINIZING HORMONE (LH), PROLACTIN, FOLLICLE STIMULATING HORMONE FSH, CA 125 CANCER MARKER, GLUCOSE (FASTING), Plasma, IRON PROFILE SERUM, URIC ACID, VITAMIN B12, VITAMIN D, 25 HYDROXY, COMPLETE BLOOD COUNT (CBC), URINE TEST ROUTINE, LIPID PROFILE, LIVER FUNCTION TEST BASIC, URINALYSIS EXTENDED, HbA1c; GLYCOSYLATED HEMOGLOBIN, HPLC",
+    "PreTestInfo": "Sample to be given at the same time in follow up cases.",
+    "TestInfoDate": "Test is run daily and report is available same day.",
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=181"
+  },
+  {
+    "ID": 2,
+    "Icon": "http://assure.triverseadvertising.com/images/triglycerides.webp",
+    "PackageName": "ASSURE LIVLONG PREMIUM - WOMAN",
+    "ActualPrice": "4230 ",
+    "DiscountPrice": "1950",
+    "TestParmeter": "ELECTROLYTES (Na, K, Ca), CREATININE, GLUCOSE (FASTING), IRON PROFILE SERUM, THYROID PROFILE, URIC ACID, VITAMIN D, 25 HYDROXY, COMPLETE BLOOD COUNT (CBC), URINE TEST ROUTINE, LIPID PROFILE, LIVER FUNCTION TEST BASIC",
+    "PreTestInfo": "Overnight fasting is mandatory",
+    "TestInfoDate": "Test is run daily and report is available same day.",
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=101"
+  },
+  {
+    "ID": 3,
+    "Icon": "http://assure.triverseadvertising.com/images/ecg.webp",
+    "PackageName": "ASSURE FITWOMAN PREMIUM",
+    "ActualPrice": "4930",
+    "DiscountPrice": "1900",
+    "TestParmeter": "ELECTROLYTES (Na, K, Ca), CREATININE, GLUCOSE (FASTING), IRON PROFILE SERUM, THYROID PROFILE, URIC ACID, VITAMIN B12, VITAMIN D, 25 HYDROXY, COMPLETE BLOOD COUNT (CBC), URINE TEST ROUTINE, LIPID PROFILE, LIVER FUNCTION TEST BASIC",
+    "PreTestInfo": "Overnight fasting is mandatory",
+    "TestInfoDate": "Test is run daily and report is available same day.",
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=102"
+  },
+  {
+    "ID": 4,
+    "Icon": "http://assure.triverseadvertising.com/images/hhp.webp",
+    "PackageName": "ASSURE FITWOMAN ESSENTIAL",
+    "ActualPrice": "2090",
+    "DiscountPrice": "750",
+    "TestParmeter": "COMPLETE BLOOD COUNT (CBC), ERYTHROCYTE SEDIMENTATION RATE (ESR), GLUCOSE (FASTING), LIPID PROFILE, CREATININE, BLOOD UREA, CALCIUM, ASPARTATE AMINOTRANSFERASE ( AST ), SGOT, ALANINE AMINOTRANSFERASE ( ALT ), SGPT, THYROID PROFILE, URINE TEST ROUTINE",
+    "PreTestInfo": "Overnight fasting is mandatory",
+    "TestInfoDate": "Test is run daily and report is available same day.",
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=180"
+  },
+  {
+    "ID": 5,
+    "Icon": "http://assure.triverseadvertising.com/images/hhp.webp",
+    "PackageName": "ASSURE FITWOMAN COMPLETE CARE",
+    "ActualPrice": "2830",
+    "DiscountPrice": "1800",
+    "PreTestInfo": "Overnight fasting is mandatory",
+    "TestParmeter": "LIPID PROFILE, ALANINE AMINOTRANSFERASE ( ALT ), SGPT, ALKALINE PHOSPHATASE, ASPARTATE AMINOTRANSFERASE ( AST ), SGOT, BILIRUBIN (DIRECT), BILIRUBIN (TOTAL), BLOOD UREA, CHLORIDE, CREATININE, GLUCOSE (FASTING), PHOSPHORUS, THYROID PROFILE, URIC ACID, COMPLETE BLOOD COUNT (CBC), ERYTHROCYTE SEDIMENTATION RATE (ESR), URINE TEST ROUTINE",
+    "TestInfoDate": "Test is run daily and report is available same day.",
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=452"
+  },
+  {
+    "ID": 6,
+    "Icon": "http://assure.triverseadvertising.com/images/hhp.webp",
+    "PackageName": "ASSURE COMPLETE WELLNESS PACKAGE FOR WOMAN",
+    "ActualPrice": "5210",
+    "DiscountPrice": "2500",
+    "TestParmeter": "COMPLETE BLOOD COUNT (CBC), GLUCOSE (FASTING), LIPID PROFILE, LIVER FUNCTION TEST EXTENDED, CREATININE, BLOOD UREA, ELECTROLYTES (Na, K, Ca), GLYCOSYLATED HEMOGLOBIN ( HBA 1C ), IRON PROFILE SERUM, THYROID PROFILE, VITAMIN D, 25 HYDROXY, VITAMIN B12, URINE TEST ROUTINE",
+    "PreTestInfo": "Overnight 8 hours fasting is recommended",
+    "TestInfoDate": "Result is available same day evening.",
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=34"
+  }
+]
