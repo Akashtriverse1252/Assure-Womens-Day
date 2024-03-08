@@ -5,10 +5,10 @@
     "PackageName": "Comprehensive Wellness Package for Women",
     "ActualPrice": "8160",
     "DiscountPrice": "2990",
-    "TestParmeter": "ELECTROLYTES (Na, K, Ca), CREATININE, THYROID PROFILE, LEUTINIZING HORMONE (LH), PROLACTIN, FOLLICLE STIMULATING HORMONE FSH, CA 125 CANCER MARKER, GLUCOSE (FASTING), Plasma, IRON PROFILE SERUM, URIC ACID, VITAMIN B12, VITAMIN D, 25 HYDROXY, COMPLETE BLOOD COUNT (CBC), URINE TEST ROUTINE, LIPID PROFILE, LIVER FUNCTION TEST BASIC, URINALYSIS EXTENDED, HbA1c; GLYCOSYLATED HEMOGLOBIN, HPLC",
-    "PreTestInfo": "Sample to be given at the same time in follow up cases.",
+    "TestParmeter": "ELECTROLYTES (Na K, Cl), CREATININE, THYROID PROFILE, LEUTINIZING HORMONE (LH), PROLACTIN, FOLLICLE STIMULATING HORMONE FSH, CA 125 CANCER MARKER, GLUCOSE (FASTING), CHROMOGRANIN A,CgA, Plasma, IRON PROFILE SERUM, URIC ACID, VITAMIN B12, VITAMIN D, 25 HYDROXY, COMPLETE BLOOD COUNT (CBC), URINE TEST ROUTINE, LIPID PROFILE, LIVER FUNCTION TEST BASIC, URINALYSIS EXTENDED, GLYCOSYLATED HEMOGLOBIN ( HBA 1C )",
+    "PreTestInfo": "Overnight fasting is mandatory.",
     "TestInfoDate": "Test is run daily and report is available same day.",
-    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=181"
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=480"
   },
   {
     "ID": 2,
@@ -19,7 +19,7 @@
     "TestParmeter": "ELECTROLYTES (Na, K, Ca), CREATININE, GLUCOSE (FASTING), IRON PROFILE SERUM, THYROID PROFILE, URIC ACID, VITAMIN D, 25 HYDROXY, COMPLETE BLOOD COUNT (CBC), URINE TEST ROUTINE, LIPID PROFILE, LIVER FUNCTION TEST BASIC",
     "PreTestInfo": "Overnight fasting is mandatory",
     "TestInfoDate": "Test is run daily and report is available same day.",
-    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=101"
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=373"
   },
   {
     "ID": 3,
@@ -30,7 +30,7 @@
     "TestParmeter": "ELECTROLYTES (Na, K, Ca), CREATININE, GLUCOSE (FASTING), IRON PROFILE SERUM, THYROID PROFILE, URIC ACID, VITAMIN B12, VITAMIN D, 25 HYDROXY, COMPLETE BLOOD COUNT (CBC), URINE TEST ROUTINE, LIPID PROFILE, LIVER FUNCTION TEST BASIC",
     "PreTestInfo": "Overnight fasting is mandatory",
     "TestInfoDate": "Test is run daily and report is available same day.",
-    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=102"
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=366"
   },
   {
     "ID": 4,
@@ -41,7 +41,7 @@
     "TestParmeter": "COMPLETE BLOOD COUNT (CBC), ERYTHROCYTE SEDIMENTATION RATE (ESR), GLUCOSE (FASTING), LIPID PROFILE, CREATININE, BLOOD UREA, CALCIUM, ASPARTATE AMINOTRANSFERASE ( AST ), SGOT, ALANINE AMINOTRANSFERASE ( ALT ), SGPT, THYROID PROFILE, URINE TEST ROUTINE",
     "PreTestInfo": "Overnight fasting is mandatory",
     "TestInfoDate": "Test is run daily and report is available same day.",
-    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=180"
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=364"
   },
   {
     "ID": 5,
@@ -52,7 +52,7 @@
     "PreTestInfo": "Overnight fasting is mandatory",
     "TestParmeter": "LIPID PROFILE, ALANINE AMINOTRANSFERASE ( ALT ), SGPT, ALKALINE PHOSPHATASE, ASPARTATE AMINOTRANSFERASE ( AST ), SGOT, BILIRUBIN (DIRECT), BILIRUBIN (TOTAL), BLOOD UREA, CHLORIDE, CREATININE, GLUCOSE (FASTING), PHOSPHORUS, THYROID PROFILE, URIC ACID, COMPLETE BLOOD COUNT (CBC), ERYTHROCYTE SEDIMENTATION RATE (ESR), URINE TEST ROUTINE",
     "TestInfoDate": "Test is run daily and report is available same day.",
-    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=452"
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=367"
   },
   {
     "ID": 6,
@@ -63,6 +63,6 @@
     "TestParmeter": "COMPLETE BLOOD COUNT (CBC), GLUCOSE (FASTING), LIPID PROFILE, LIVER FUNCTION TEST EXTENDED, CREATININE, BLOOD UREA, ELECTROLYTES (Na, K, Ca), GLYCOSYLATED HEMOGLOBIN ( HBA 1C ), IRON PROFILE SERUM, THYROID PROFILE, VITAMIN D, 25 HYDROXY, VITAMIN B12, URINE TEST ROUTINE",
     "PreTestInfo": "Overnight 8 hours fasting is recommended",
     "TestInfoDate": "Result is available same day evening.",
-    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=34"
+    "book": "https://www.assurePathlabs.com/add_to_cart.php?id=469"
   }
 ]
